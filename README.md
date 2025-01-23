@@ -1,3 +1,4 @@
+* İndirmek için Code tuşu altında Download Zip linkine tıklayın.
 * UI 3440x1440 Ultra Wide Ekranlar için tasarlanmıştır. Kendi ekran boyutunuza göre özelleştirebilirsiniz.
 * Action Bar'lar default olarak gizlidir, shift+alt tuşlarına aynı anda basarak görüntüleyebilirsiniz.
 
